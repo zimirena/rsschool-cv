@@ -44,3 +44,14 @@ function multiply(a, b){
 ```
 
 ----
+## Experience:
+
+* Freelance practice:
+    + [Landing page for taxi service](http://fantomxt.beget.tech/taxi/index.html "Responsive landing page layout created with HTML/CSS")
+        - Skills: HTML, CSS
+    + [Learning center's website](https://cupk-edu.ru/product-category/povyshenie-kvalifikaczii/ "Web page built using Elementor and custom CSS")
+        - Skills: HTML, CSS, WordPress, Elementor, Woocommerce
+    + [Logistics company's website](http://fantomxt.beget.tech/wp-logistic/ "Integrating a third-party layout into a WordPress theme")
+        - Skills: PHP, WordPress
+
+----
