@@ -55,3 +55,18 @@ function multiply(a, b){
         - Skills: PHP, WordPress
 
 ----
+## Education:
+
+* MSLU (Moscow State Linguistic University)
+* Self-study in web development:
+    + [HTML book](https://basicweb.ru/html/html_book.php)
+    + [CSS book](https://basicweb.ru/css/css_book.php)
+    + [The WHATWG Living Standard](https://html.spec.whatwg.org/)
+    + [PHP Manual](https://www.php.net/manual/en/index.php)
+
+----
+## Languages:
+
+* Russian (native speaker)
+* English (pre-intermediate)
+* French (pre-intermediate)
