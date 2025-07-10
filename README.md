@@ -1,1 +1,1 @@
-# rsschool-cv
+https://zimirena.github.io/rsschool-cv/cv

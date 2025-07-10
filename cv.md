@@ -1,6 +1,5 @@
 # Irina Zimina
 
----
 
 ## Contacts
 
@@ -12,7 +11,6 @@
 
 **Discord:** zimirena(@zimirena)
 
----
 
 ## About me
 
@@ -22,14 +20,12 @@ I've already had some freelance experience: sometimes I take on small tasks like
 
 However, I feel that my knowledge is still unsystematic, fragmented and insufficient. That’s why I've set a goal for myself to fill in the gaps, learn modern development standards, and adopt best practices. Eventually I see myself as a full-stack developer.
 
----
 
 ## Skills
 
 **Frontend:** HTML, CSS, jQuery, Figma  
 **Backend:** PHP
 
----
 
 ## Code example
 
@@ -42,7 +38,6 @@ function multiply(a, b){
 }
 ```
 
-
 **My solution:**
 
 ```
@@ -51,7 +46,6 @@ function multiply(a, b){
 }
 ```
 
----
 
 ## Experience
 
@@ -63,7 +57,6 @@ Freelance practice:
 + [Integrating a third-party layout into a WordPress theme](http://fantomxt.beget.tech/wp-logistic/ "Logistics company's website")
     - Skills: PHP, WordPress
 
----
 
 ## Education
 
@@ -74,7 +67,6 @@ Freelance practice:
     + [The WHATWG Living Standard](https://html.spec.whatwg.org/)
     + [PHP Manual](https://www.php.net/manual/en/index.php)
 
----
 
 ## Languages
 
