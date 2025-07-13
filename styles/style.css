@@ -95,3 +95,38 @@ li {
 .page__subtitle {
     font-size: 2em;
 }
+
+.code-wrapper {
+    background-color: #e7e7e7;
+    border-radius: 3px;
+}
+
+.skills__list {
+    columns: 3;
+}
+.skills__item {
+    padding: 10px 15px;
+    margin: 0 0 1em;
+    border-radius: 3px;
+    background-color: var(--accent-main);
+    font-weight: bold;
+}
+/*** portfolio ***/
+.portfolio__work-inner {
+    display: flex;
+    flex-direction: column;
+}
+.portfolio__work-link {
+    max-width: fit-content;
+    background-color: var(--accent-bright);
+    color: var(--font);
+    padding: 10px 15px;
+    border-radius: 3px;
+    font-weight: bold;
+    transition: 0.5s;
+}
+
+.portfolio__work-link:hover {
+    background-color: var(--accent-main);
+    color: var(--font-light);
+}
