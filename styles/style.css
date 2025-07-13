@@ -4,12 +4,7 @@ a {
 	outline: none; /*Safari*/
 }
 
-ul,
-p,
-h1,
-h2,
-h3,
-h4 {
+ul {
 	padding: 0;
 	margin: 0;
 }
@@ -18,11 +13,85 @@ li {
 	list-style: none;
 }
 
+:root {
+	--font: #2b2b2b;
+	--font-light: #ffffff;
+    --accent-bright: #f7b016;
+    --accent-main: #2591ad;
+    --back-dark: #474642;
+    --background-light: #e6e6e6;
+}
 /*** basic styles END***/
 
-.main-page {
-    max-width: 1440px;
-    margin: 0 auto;
+.page {
     font-family: "Open Sans", sans-serif;
     font-style: normal;
+    color: var(--font);
+}
+
+.max-width {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.min-width {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.content > * {
+    margin-bottom: 60px;
+
+}
+
+.header,
+.footer,
+.first-block {
+    background-color: var(--accent-main);
+}
+
+.navigation__list {
+    display: flex;
+    justify-content: end;
+    padding: 15px;
+}
+
+.navigation__link {
+    padding: 0 20px;
+    color: var(--font);
+}
+
+.navigation__link:hover {
+    color: var(--accent-bright);
+}
+
+.first-block__inner,
+.footer__inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2em;
+    padding: 2em 0;
+}
+
+.footer__inner {
+    align-items: flex-end;
+}
+
+.page__my-logo {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border: 5px solid;
+    border-radius: 50%;
+}
+
+.page__title {
+    font-size: 7em;
+    margin: 0;
+}
+
+.page__subtitle {
+    font-size: 2em;
 }
