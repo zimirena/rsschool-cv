@@ -11,6 +11,7 @@ ul {
 
 li {
 	list-style: none;
+    line-height: 2em;
 }
 
 :root {
@@ -22,7 +23,9 @@ li {
     --background-light: #e6e6e6;
 }
 /*** basic styles END***/
-
+html {
+    scroll-behavior: smooth;
+}
 .page {
     font-family: "Open Sans", sans-serif;
     font-style: normal;
@@ -115,6 +118,10 @@ li {
 .portfolio__work-inner {
     display: flex;
     flex-direction: column;
+    border: 1px solid;
+    border-radius: 3px;
+    margin-bottom: 3em;
+    padding: 15px 30px;
 }
 .portfolio__work-link {
     max-width: fit-content;
